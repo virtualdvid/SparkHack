@@ -6,3 +6,4 @@
  * Install in folder: `C:\Users\<my_user>\miniconda3`  
  * Create and environment: `conda create -n sparkhack python=3.7.4 jupyter`  
  * Access environment: `conda activate sparkhack`
+ * install requirements: `conda install --file=requirements.txt`
