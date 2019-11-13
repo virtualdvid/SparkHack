@@ -1,3 +1,6 @@
 .vscode
-__pycache__
 .ipynb_checkpoints
+.metals
+__pycache__
+data
+spark-labs
