@@ -12,3 +12,14 @@
  * verify installation:
    - open: `python/testing-123.ipynb`
    - run each cell
+
+### Scala - Jupyter
+[reference](https://medium.com/@bogdan.cojocar/how-to-run-scala-and-spark-in-the-jupyter-notebook-328a80090b3b)
+
+ * install `spylon-kernel`: `conda install -c conda-forge spylon-kernel`
+ * start kernel:  `python -m spylon_kernel install`
+ * start notebook (or refresh in browser): `jupyter notebook`
+ * On Home `jupyter` explorer go: `New -> spylon-kernel`
+ * verify installation:
+   - open: `scala/testing-123.ipynb`
+   - run each cell
